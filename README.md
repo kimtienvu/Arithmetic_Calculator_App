@@ -18,3 +18,4 @@ Trying to make a calculator app to learning how to use Android Studio for the fi
 ### Other notes:
 * In the activity_main.xml file, I had to use an outer <tag> </tag> around the initial setup to use `binding`
 * MainActivity.java has all the code that connects to the widgets
+* I Tried uploading all the files to github (intermediates) but some were hidden or made github crash when I tried uploading them.
